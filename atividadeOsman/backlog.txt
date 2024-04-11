@@ -1,0 +1,6 @@
+Backlog
+
+Após o cadastro, é obrigatório efetuar o login;
+Os usuários serão: Profissional, recutador;
+Apenas o recutador poderá postar vagas;
+É obrigatório anexar o currículo, caso o profisional deseje se candidatar na vaga;
